@@ -90,7 +90,7 @@ public class GameItemGenerator : IIncrementalGenerator
                 .AppendLine("    }")
                 .AppendLine("}");
 
-            productCtx.AddSource("__GameItem_AutoRegister.g.cs", sb.ToString());
+            productCtx.AddSource("__GameItem_AutoRegister.generated.cs", sb.ToString());
         });
     }
 
