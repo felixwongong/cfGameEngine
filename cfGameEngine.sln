@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cfGameEngine", "cfGameEngine\cfGameEngine.csproj", "{0CAFAF4F-A482-416B-9B9E-75B16AB804CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cfGameEngine.Generator", "cfGameEngine.Generator\cfGameEngine.Generator.csproj", "{A8153887-21BD-4C81-B8EB-4AAD38454C5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cfGameEngine.Test", "cfGameEngine.Test\cfGameEngine.Test.csproj", "{C004CA81-771F-41E9-99D2-C6AFF2791777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CAFAF4F-A482-416B-9B9E-75B16AB804CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CAFAF4F-A482-416B-9B9E-75B16AB804CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CAFAF4F-A482-416B-9B9E-75B16AB804CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CAFAF4F-A482-416B-9B9E-75B16AB804CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8153887-21BD-4C81-B8EB-4AAD38454C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8153887-21BD-4C81-B8EB-4AAD38454C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8153887-21BD-4C81-B8EB-4AAD38454C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8153887-21BD-4C81-B8EB-4AAD38454C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C004CA81-771F-41E9-99D2-C6AFF2791777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C004CA81-771F-41E9-99D2-C6AFF2791777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C004CA81-771F-41E9-99D2-C6AFF2791777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C004CA81-771F-41E9-99D2-C6AFF2791777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
